@@ -1,0 +1,25 @@
+*
+{
+    overflow-x:hidden;
+}
+#navbar
+{
+padding:0px;
+}
+#navbarSupportedContent>ul>li
+{
+padding: 30px 5px;
+font-family: 'Secular One', sans-serif;
+font-size:1.1rem;
+color:#fff;
+font-weight:normal;
+}
+#card
+{
+background-color:#fff3b0;
+}
+h5
+{
+font-size:1.3rem;
+font-family: 'Josefin Sans', sans-serif;
+}

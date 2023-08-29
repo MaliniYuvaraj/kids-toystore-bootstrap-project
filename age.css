@@ -1,0 +1,46 @@
+*
+{
+    overflow-x:hidden;
+}
+h1
+{
+font-size:3rem;
+font-family: 'Pacifico', cursive;
+text-align:center;
+padding:20px;
+margin:0px;
+display:block;
+color:#c1121f;
+background-color:#ecf39e;
+}
+#navbar
+{
+padding:0px;
+}
+#navbarSupportedContent>ul>li
+{
+padding: 30px 5px;
+font-family: 'Secular One', sans-serif;
+font-size:1.1rem;
+color:#fff;
+font-weight:normal;
+}
+#card
+{
+background-color:#adc178;
+}
+h5
+{
+font-size:1rem;
+color:#023047;
+font-family: 'Courgette', cursive;
+}
+h4
+{
+font-sixe:1.7rem;
+font-family: 'Changa', sans-serif;
+color:#ef476f;
+padding:20px;
+margin:20px;
+text-align:center;
+}

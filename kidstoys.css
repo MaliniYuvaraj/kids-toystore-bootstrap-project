@@ -1,0 +1,64 @@
+*
+{
+    overflow-x:hidden;
+}
+h1
+{
+font-size:3rem;
+font-family: 'Pacifico', cursive;
+text-align:center;
+padding:20px;
+margin:0px;
+display:block;
+color:#c1121f;
+background-color:#ecf39e;
+}
+#navbar
+{
+padding:0px;
+}
+#navbarSupportedContent>ul>li
+{
+padding: 30px 5px;
+font-family: 'Secular One', sans-serif;
+font-size:1.1rem;
+color:#fff;
+font-weight:normal;
+}
+
+#about
+{
+width:90%;
+margin:50px;
+}
+h3
+{
+font-size:1.5rem;
+color:#dc2f02;
+padding:10px;
+text-align:center;
+background-color:#ecf39e;
+font-family: 'Josefin Sans', sans-serif;
+}
+p
+{
+font-family: 'Courgette', cursive;
+font-size:1.1rem;
+}
+h2
+{
+font-size:2ren;
+padding:10px;
+text-align:center;
+font-family: 'Pacifico', cursive;
+color:#c1121f;
+}
+#card
+{
+background-color:#ffddd2;
+}
+h5
+{
+font-size:1rem;
+color:#023047;
+}

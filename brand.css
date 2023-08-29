@@ -1,0 +1,16 @@
+*
+{
+    overflow-x:hidden;
+}
+#navbar
+{
+padding:0px;
+}
+#navbarSupportedContent>ul>li
+{
+padding: 30px 5px;
+font-family: 'Secular One', sans-serif;
+font-size:1.1rem;
+color:#fff;
+font-weight:normal;
+}
